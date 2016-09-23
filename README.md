@@ -1,3 +1,3 @@
 # hello-world
 ===
-I love to code and party
+I love to code
